@@ -1,1 +1,2 @@
-# contributors
+Contributors:
+- [@maxwelljhuang](https://github.com/maxwelljhuang)
